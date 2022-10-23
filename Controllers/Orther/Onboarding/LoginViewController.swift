@@ -70,14 +70,14 @@ class LoginViewController: UIViewController {
     
     private let termsButton: UIButton = {
         let button = UIButton()
-        button.setTitle("Terms of Servicd ", for: .normal)
+        button.setTitle("Terms of service", for: .normal)
         button.setTitleColor(.secondaryLabel, for: .normal)
         return button
     }()
     
     private let privacyButton: UIButton = {
         let button = UIButton()
-        button.setTitle("privacy Policy ", for: .normal)
+        button.setTitle("Privacy policy ", for: .normal)
         button.setTitleColor(.secondaryLabel, for: .normal)
         return button
     }()
