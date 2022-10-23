@@ -100,10 +100,10 @@
             </objects>
             <point key="canvasLocation" x="-3094" y="-255"/>
         </scene>
-        <!--View Controller-->
+        <!--Home View Controller-->
         <scene sceneID="cln-eS-JhY">
             <objects>
-                <viewController id="ZxT-WI-Llo" sceneMemberID="viewController">
+                <viewController id="ZxT-WI-Llo" customClass="HomeViewController" customModule="InstagramApp3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="UF5-65-NkL" customClass="HomeViewController">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
